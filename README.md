@@ -5,7 +5,7 @@ This project focuses on analyzing Airbnb listings in Lisbon using both SQL and T
 
 ![dashboard_picture](/docs/images/dashboard_lisbon.png)  
 Link to the project in Tableau Public 👉
-[Dashboard airbnb lisbon dashboard](https://public.tableau.com/views/ExploringLisbonsAirbnbLandscape/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
+[Dashboard airbnb lisbon](https://public.tableau.com/views/ExploringLisbonsAirbnbLandscape/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ## Dataset
