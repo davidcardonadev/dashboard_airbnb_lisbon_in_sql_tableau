@@ -1,0 +1,4 @@
+# Ignore CSV, XLSX, and XLS files in the /data directory
+/data/*.csv
+/data/*.xlsx
+/data/*.xls
